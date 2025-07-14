@@ -31,7 +31,7 @@ A passionate Software Developer and Tech Enthusiast who loves to create, innovat
 
 ### 📫 Contact Me:
 📧 Email: jinsamariamthomas26@gmail.com  
-💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/jinsa-mariam-thomas182603/)
+💼 LinkedIn: [linkedin.com](https://www.linkedin.com/in/jinsa-mariam-thomas182603/)
 
 
 
