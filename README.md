@@ -1,6 +1,6 @@
 
-<h2 align="left">Hi 👋! I'm Jinsa ,Welcome to my world</h2>
-<h3> **Software Developer | Tech Enthusiast | Innovator** </h3> 
+<h2 align="left">Hi ! I'm Jinsa ,Welcome to my world</h2>
+<h3> Software Developer | Tech Enthusiast | Innovator </h3> 
 A passionate Software Developer and Tech Enthusiast who loves to create, innovate, and collaborate. I enjoy solving complex problems, learning new technologies, and building cool projects that make an impact.
 
 
