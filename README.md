@@ -1,6 +1,7 @@
 
-<h2 align="left">Hi ! I'm Jinsa ,Welcome to my world</h2>
-<h3> Software Developer | Tech Enthusiast | Innovator </h3> 
+# Hi ! I'm Jinsa <img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='60'/>,Welcome to my world!
+
+<h3> Software Developer | Tech Enthusiast | Innovator </h3>
 A passionate Software Developer and Tech Enthusiast who loves to create, innovate, and collaborate. I enjoy solving complex problems, learning new technologies, and building cool projects that make an impact.
 
 
