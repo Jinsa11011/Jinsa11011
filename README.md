@@ -4,7 +4,7 @@
 A passionate Software Developer and Tech Enthusiast who loves to create, innovate, and collaborate. I enjoy solving complex problems, learning new technologies, and building cool projects that make an impact.
 
 
-<
+
  
 
 
@@ -16,7 +16,7 @@ A passionate Software Developer and Tech Enthusiast who loves to create, innovat
 
 <br clear="both">
 
-<img src="party-furby.gif" align="right" width="60">
+
 
 ###
 
@@ -32,6 +32,8 @@ A passionate Software Developer and Tech Enthusiast who loves to create, innovat
 ### 📫 Contact Me:
 📧 Email: jinsamariamthomas26@gmail.com  
 💼 LinkedIn: [linkedin.com](https://www.linkedin.com/in/jinsa-mariam-thomas182603/)
+
+<img src="party-furby.gif" align="middle" width="60">
 
 
 
