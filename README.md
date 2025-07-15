@@ -4,7 +4,7 @@
 A passionate Software Developer and Tech Enthusiast who loves to create, innovate, and collaborate. I enjoy solving complex problems, learning new technologies, and building cool projects that make an impact.
 
 
-
+<
  
 
 
@@ -16,7 +16,7 @@ A passionate Software Developer and Tech Enthusiast who loves to create, innovat
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="party-furby.gif" align="right" width="60">
 
 ###
 
